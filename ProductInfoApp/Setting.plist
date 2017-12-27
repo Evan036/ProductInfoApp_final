@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MsgURL</key>
+	<string>http://biz.foodchina.com.tw:8080/fcc-appserver/message/get</string>
+	<key>AuthURL</key>
+	<string>http://biz.foodchina.com.tw:8080/fcc-appserver/register/authorize/verify</string>
+	<key>RegURL</key>
+	<string>http://biz.foodchina.com.tw:8080/fcc-appserver/register/authorize/get</string>
+	<key>RegPhone</key>
+	<string></string>
+	<key>DeviceToken</key>
+	<string></string>
+	<key>IsMember</key>
+	<string>NO</string>
+	<key>IsVIP</key>
+	<string>NO</string>
+	<key>IsRegisted</key>
+	<string>NO</string>
+</dict>
+</plist>

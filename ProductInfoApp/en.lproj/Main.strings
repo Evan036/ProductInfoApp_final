@@ -1,0 +1,111 @@
+
+/* Class = "UIButton"; normalTitle = "重新傳送認證碼"; ObjectID = "4RD-69-9Zc"; */
+"4RD-69-9Zc.normalTitle" = "重新傳送認證碼";
+
+/* Class = "UIButton"; normalTitle = "Setting"; ObjectID = "6L4-4A-nnF"; */
+"6L4-4A-nnF.normalTitle" = "Setting";
+
+/* Class = "UITextField"; placeholder = "請輸入認證碼"; ObjectID = "6Qe-ZX-fsR"; */
+"6Qe-ZX-fsR.placeholder" = "請輸入認證碼";
+
+/* Class = "UITextField"; placeholder = "請輸入手機號碼"; ObjectID = "C65-DV-Hlt"; */
+"C65-DV-Hlt.placeholder" = "請輸入手機號碼";
+
+/* Class = "UILabel"; text = "沒收到手機簡訊認證碼"; ObjectID = "DHE-n2-PG8"; */
+"DHE-n2-PG8.text" = "沒收到手機簡訊認證碼";
+
+/* Class = "UINavigationItem"; title = "設定"; ObjectID = "EAx-We-qEe"; */
+"EAx-We-qEe.title" = "設定";
+
+/* Class = "UIViewController"; title = "ConfirmView"; ObjectID = "KAl-al-j0r"; */
+"KAl-al-j0r.title" = "ConfirmView";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "KMV-AK-lly"; */
+"KMV-AK-lly.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "用戶認證"; ObjectID = "Ltf-cs-KDS"; */
+"Ltf-cs-KDS.normalTitle" = "用戶認證";
+
+/* Class = "UIButton"; normalTitle = "DDGS"; ObjectID = "MA1-xy-DEd"; */
+"MA1-xy-DEd.normalTitle" = "DDGS";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "O1s-3D-szR"; */
+"O1s-3D-szR.normalTitle" = "About";
+
+/* Class = "UITextView"; text = "* 如您是中華食物網的VIP交易會員，請輸入您接收簡訊報價的手機號碼。\n\n* 如您是中華食物網的會員，請輸入網站註冊的手機號碼。\n\n* 如您非中華食物網的會員，請輸入您的手機號碼。"; ObjectID = "Pdx-Ec-S1G"; */
+"Pdx-Ec-S1G.text" = "* 如您是中華食物網的VIP交易會員，請輸入您接收簡訊報價的手機號碼。\n\n* 如您是中華食物網的會員，請輸入網站註冊的手機號碼。\n\n* 如您非中華食物網的會員，請輸入您的手機號碼。";
+
+/* Class = "UINavigationItem"; title = "主選單"; ObjectID = "Pzd-i7-835"; */
+"Pzd-i7-835.title" = "主選單";
+
+/* Class = "UIViewController"; title = "RegisterView"; ObjectID = "QEM-Mz-jg6"; */
+"QEM-Mz-jg6.title" = "RegisterView";
+
+/* Class = "UIButton"; normalTitle = "同意條款"; ObjectID = "S2W-4L-Iwj"; */
+"S2W-4L-Iwj.normalTitle" = "同意條款";
+
+/* Class = "UIButton"; normalTitle = "Message"; ObjectID = "Sga-97-bTo"; */
+"Sga-97-bTo.normalTitle" = "Message";
+
+/* Class = "UILabel"; text = "無網路訊號..."; ObjectID = "Tgy-k3-Alz"; */
+"Tgy-k3-Alz.text" = "無網路訊號...";
+
+/* Class = "UIButton"; normalTitle = "返回主選單"; ObjectID = "UxP-XG-bPR"; */
+"UxP-XG-bPR.normalTitle" = "返回主選單";
+
+/* Class = "UITableViewController"; title = "MessagesTableView"; ObjectID = "X0D-D0-SGr"; */
+"X0D-D0-SGr.title" = "MessagesTableView";
+
+/* Class = "UIButton"; normalTitle = "取得認證碼"; ObjectID = "Xmf-qu-770"; */
+"Xmf-qu-770.normalTitle" = "取得認證碼";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Yer-tS-Bpy"; */
+"Yer-tS-Bpy.text" = "Subtitle";
+
+/* Class = "UITextView"; text = "隱私條款\n中華食物網FoodChina, Inc.(Registered In Cayman Islands)（以下簡稱“FCC”）非常重視會員的隱私權。本隱私權條款（以下簡稱本條款）概述FCC在您使用FCC服務及交易（以下簡稱FCC服務）的過程中，所接收和收集的個人資訊的種類，以及FCC所採取的保護資訊的措施。請您細讀以下有關隱私權保護政策內容：\n\n1.聲明：\n您的FCC帳戶資訊和檔案通過密碼來保護，只有帳戶註冊人才有權獲取這些個人資訊。我們建議您不要向任何他人洩露您的帳戶密碼。FCC不會主動致電或主動發電子郵件給您來詢問您的密碼。同時，請您在完成工作後，務必退出您的FCC帳戶並關閉您的流覽器窗口，以便當您與他人合用一台電腦，或正在公共場所使用電腦時，保證他人無法獲取您的個人資訊和往來通信。\n\n2.隱私權政策適用範圍：\n適用於FCC服務以及全球網站的隱私保護慣例，包括FCC如何處理會員在登錄網站和伺服器時留下的個人身份識別資訊，以及與商業夥伴共用的其他身份識別資訊。\n\n3.資料收集及使用方式：\n* FCC在您登記某項FCC服務或在您自願提供資訊的其他情況下，收集您個人資訊。FCC可能將從您所留下的個人資訊與從其他FCC服務或從第三方獲得的資訊進行整合，以向您提供更好的用戶服務，包括為您所提供的客製化內容。\n* FCC採用cookies和其他技術來增強您的線上體驗、瞭解您使用FCC服務的習慣，以改善FCC的服務品質。\n* 當您瀏覽FCC網站或使用FCC的服務時，FCC伺服器會自動記錄資訊，包括URL、IP位址、瀏覽器類型、使用語言、日期和時間。\nFCC會將這些資料用於改進為您所提供的廣告及網頁內容，以滿足您的需求或通知最新產品資訊。\n\n4.用途：\n* FCC可能使用您個人資訊提供您所要求的服務，包括顯示客製化內容和廣告服務。\n* FCC可能將個人資訊用於統計、調查研究和分析，以運作和改善FCC的技術和服務。\n* 我們可能與FCC以外的第三方共用綜合性的非個人資訊。\n* 在以下的情況下，FCC會向政府機關、其他人士或公司提供或共用會員的個人識別資料，包括為了遵守法律程式、防止欺詐或危急損害，以及確保FCC的網路及服務的安全。\n* 當FCC使用第三方協助FCC處理您的個人資訊時，FCC要求他們遵守FCC的隱私政策，以及任何其他適當的保密和安全措施。\n* FCC處理個人資訊的伺服器位於台灣和其他國家。在某些情況下，FCC處理您個人資訊的伺服器可能位於您所在國家的境外。\n\n5.免責：\n在下列情況下，FCC無需承擔任何責任：\n* 任何根據法律法規或政府的強制性規定所作的對於個人資訊的披露。\n* 由於您將用戶密碼告知他人或與他人共用註冊帳戶，由此導致的任何個人資訊的洩露。\n* 任何由於駭客攻擊、電腦病毒侵入或發作、因政府管制而造成的暫時性關閉等影響網路正常經營之不可抗力而造成的個人資訊洩露、丟失、被盜用或被竄改等。\n* 由於我們不擁有或不控制的公司以及我們不雇傭或不管理的人員所造成的個人資訊的洩露及由此而導致的任何法律爭議和後果。\n\n6.隱私權政策的修訂：\nFCC時常會對隱私權政策進行修改。如果在使用會員個人資訊政策方面有大幅度修改時，FCC會在網頁中顯眼的位置貼出相關規定以便及時通知用戶。本隱私權聲明的修改權和最終解釋權歸FCC所有。\n\n7.更多資訊：\n欲瞭解更多有關FCC的隱私慣例的資訊，或如果有任何其他問題，歡迎隨時聯繫FCC客服專線0800-200-011"; ObjectID = "Yuc-Os-Ppv"; */
+"Yuc-Os-Ppv.text" = "隱私條款\n中華食物網FoodChina, Inc.(Registered In Cayman Islands)（以下簡稱“FCC”）非常重視會員的隱私權。本隱私權條款（以下簡稱本條款）概述FCC在您使用FCC服務及交易（以下簡稱FCC服務）的過程中，所接收和收集的個人資訊的種類，以及FCC所採取的保護資訊的措施。請您細讀以下有關隱私權保護政策內容：\n\n1.聲明：\n您的FCC帳戶資訊和檔案通過密碼來保護，只有帳戶註冊人才有權獲取這些個人資訊。我們建議您不要向任何他人洩露您的帳戶密碼。FCC不會主動致電或主動發電子郵件給您來詢問您的密碼。同時，請您在完成工作後，務必退出您的FCC帳戶並關閉您的流覽器窗口，以便當您與他人合用一台電腦，或正在公共場所使用電腦時，保證他人無法獲取您的個人資訊和往來通信。\n\n2.隱私權政策適用範圍：\n適用於FCC服務以及全球網站的隱私保護慣例，包括FCC如何處理會員在登錄網站和伺服器時留下的個人身份識別資訊，以及與商業夥伴共用的其他身份識別資訊。\n\n3.資料收集及使用方式：\n* FCC在您登記某項FCC服務或在您自願提供資訊的其他情況下，收集您個人資訊。FCC可能將從您所留下的個人資訊與從其他FCC服務或從第三方獲得的資訊進行整合，以向您提供更好的用戶服務，包括為您所提供的客製化內容。\n* FCC採用cookies和其他技術來增強您的線上體驗、瞭解您使用FCC服務的習慣，以改善FCC的服務品質。\n* 當您瀏覽FCC網站或使用FCC的服務時，FCC伺服器會自動記錄資訊，包括URL、IP位址、瀏覽器類型、使用語言、日期和時間。\nFCC會將這些資料用於改進為您所提供的廣告及網頁內容，以滿足您的需求或通知最新產品資訊。\n\n4.用途：\n* FCC可能使用您個人資訊提供您所要求的服務，包括顯示客製化內容和廣告服務。\n* FCC可能將個人資訊用於統計、調查研究和分析，以運作和改善FCC的技術和服務。\n* 我們可能與FCC以外的第三方共用綜合性的非個人資訊。\n* 在以下的情況下，FCC會向政府機關、其他人士或公司提供或共用會員的個人識別資料，包括為了遵守法律程式、防止欺詐或危急損害，以及確保FCC的網路及服務的安全。\n* 當FCC使用第三方協助FCC處理您的個人資訊時，FCC要求他們遵守FCC的隱私政策，以及任何其他適當的保密和安全措施。\n* FCC處理個人資訊的伺服器位於台灣和其他國家。在某些情況下，FCC處理您個人資訊的伺服器可能位於您所在國家的境外。\n\n5.免責：\n在下列情況下，FCC無需承擔任何責任：\n* 任何根據法律法規或政府的強制性規定所作的對於個人資訊的披露。\n* 由於您將用戶密碼告知他人或與他人共用註冊帳戶，由此導致的任何個人資訊的洩露。\n* 任何由於駭客攻擊、電腦病毒侵入或發作、因政府管制而造成的暫時性關閉等影響網路正常經營之不可抗力而造成的個人資訊洩露、丟失、被盜用或被竄改等。\n* 由於我們不擁有或不控制的公司以及我們不雇傭或不管理的人員所造成的個人資訊的洩露及由此而導致的任何法律爭議和後果。\n\n6.隱私權政策的修訂：\nFCC時常會對隱私權政策進行修改。如果在使用會員個人資訊政策方面有大幅度修改時，FCC會在網頁中顯眼的位置貼出相關規定以便及時通知用戶。本隱私權聲明的修改權和最終解釋權歸FCC所有。\n\n7.更多資訊：\n欲瞭解更多有關FCC的隱私慣例的資訊，或如果有任何其他問題，歡迎隨時聯繫FCC客服專線0800-200-011";
+
+/* Class = "UIButton"; normalTitle = "News"; ObjectID = "ZKe-s6-9M9"; */
+"ZKe-s6-9M9.normalTitle" = "News";
+
+/* Class = "UILabel"; text = "設定手機號碼接收訊息, 重送認證碼"; ObjectID = "c6I-Yl-V9F"; */
+"c6I-Yl-V9F.text" = "設定手機號碼接收訊息, 重送認證碼";
+
+/* Class = "UIButton"; normalTitle = "Con"; ObjectID = "cIK-hA-IPg"; */
+"cIK-hA-IPg.normalTitle" = "Con";
+
+/* Class = "UILabel"; text = "請輸入手機簡訊收到的認證碼"; ObjectID = "d26-U2-2VX"; */
+"d26-U2-2VX.text" = "請輸入手機簡訊收到的認證碼";
+
+/* Class = "UINavigationItem"; title = "訊息中心"; ObjectID = "eBb-p3-kjN"; */
+"eBb-p3-kjN.title" = "訊息中心";
+
+/* Class = "UIViewController"; title = "NoNetworkView"; ObjectID = "f9x-Or-AY6"; */
+"f9x-Or-AY6.title" = "NoNetworkView";
+
+/* Class = "UIButton"; normalTitle = "Pig"; ObjectID = "gHe-Aa-FXI"; */
+"gHe-Aa-FXI.normalTitle" = "Pig";
+
+/* Class = "UITableViewController"; title = "SettingTableView"; ObjectID = "iie-w6-2rm"; */
+"iie-w6-2rm.title" = "SettingTableView";
+
+/* Class = "UILabel"; text = "重新註冊/傳送認證碼"; ObjectID = "qYX-Fy-O3w"; */
+"qYX-Fy-O3w.text" = "重新註冊/傳送認證碼";
+
+/* Class = "UIViewController"; title = "AgreenmentView"; ObjectID = "qjM-SZ-Yrk"; */
+"qjM-SZ-Yrk.title" = "AgreenmentView";
+
+/* Class = "UIButton"; normalTitle = "SM"; ObjectID = "r8x-0v-XvC"; */
+"r8x-0v-XvC.normalTitle" = "SM";
+
+/* Class = "UINavigationController"; title = "MainMenu"; ObjectID = "s4d-O2-ULu"; */
+"s4d-O2-ULu.title" = "MainMenu";
+
+/* Class = "UIViewController"; title = "MainView"; ObjectID = "vXZ-lx-hvc"; */
+"vXZ-lx-hvc.title" = "MainView";
+
+/* Class = "UILabel"; text = "請輸入您的手機號碼"; ObjectID = "vzV-Uu-ZIa"; */
+"vzV-Uu-ZIa.text" = "請輸入您的手機號碼";
+
+/* Class = "UIButton"; normalTitle = "SB"; ObjectID = "xH7-t4-kJw"; */
+"xH7-t4-kJw.normalTitle" = "SB";
